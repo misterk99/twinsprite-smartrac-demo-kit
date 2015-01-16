@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Main.cs">
+    <Files>
+      <File FileName="../../UnityProject/Assets/Scripts/TwinspriteSDK/ToyxManager.cs" Line="37" Column="1" />
+      <File FileName="Assets/Plugins/Reader.cs" Line="43" Column="52" />
+      <File FileName="Assets/Scripts/Main.cs" Line="28" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
